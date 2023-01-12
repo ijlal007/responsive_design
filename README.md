@@ -1,10 +1,10 @@
 # responsive_design
 
-A new Flutter project.
+This project illustrates the power of responsive flutter. It shows how we can use one code base to build apps for multiple screen sizes.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project uses the media queries and other methods to build a resposive application.
 
 A few resources to get you started if this is your first Flutter project:
 
